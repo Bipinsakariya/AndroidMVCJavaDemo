@@ -1,16 +1,23 @@
 <resources>
-    <string name="app_name">MVCStrucherDemo</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
-    <string name="username">Username</string>
+    <string name="app_name">MVCDEMO_Java</string>
+    <string name="email">Email</string>
     <string name="password">Password</string>
-    <string name="c_password">Confirm Password</string>
-    <string name="mobile">Mobile Number</string>
+    <string name="login">Login</string>
+    <string name="empty_email">Please enter email</string>
+    <string name="empty_password">Please enter password</string>
+    <string name="errorValidEmail">Please enter valid email</string>
+    <string name="edFname">Name</string>
+    <string name="phno">Phone no</string>
+    <string name="signup">Sign Up</string>
+    <string name="empty_name">Please enter name</string>
+    <string name="errorPhno">Please enter phone number</string>
+    <string name="errorpno">Please enter current phone number</string>
+    <string name="logout">Logout</string>
+    <string name="dialog_title">Error Dialog</string>
+
+    <string name="createaccount">Don\'t have an account? Sign up</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="networkdialod">Network Error</string>
+    <string name="network_msg">Please check your network connection!!</string>
+    <string name="ok">OK</string>
 </resources>
